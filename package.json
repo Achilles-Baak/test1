@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "jspdf": "2.2.0",
-    "uid-safe": "1.1.0",
     "xmldom": "^0.4.0"
   }
 }
