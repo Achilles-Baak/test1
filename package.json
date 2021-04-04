@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "pug": "2.0.4",
-    "three": "0.124.0",
+    "three": "0.125.0",
     "type-graphql": "0.17.5",
     "xmldom": "^0.4.0"
   }
