@@ -11,7 +11,7 @@
   "dependencies": {
     "pug": "2.0.4",
     "three": "0.124.0",
-    "type-graphql": "0.17.5",
+    "type-graphql": "0.17.6",
     "xmldom": "^0.4.0"
   }
 }
